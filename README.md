@@ -1,2 +1,6 @@
 # hello-world
-First repository storage
+
+Hi there, this is the first edit made by me.
+I am Simon
+
+Lovely
